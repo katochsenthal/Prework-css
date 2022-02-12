@@ -1,0 +1,44 @@
+.textRed {
+  color: red;
+}
+
+.textBlue {
+  color: blue;
+}
+
+.textGreen {
+  color: green;
+}
+
+.textBig {
+  font-size: 20px;
+}
+
+.textTiny {
+  font-size: 7px;
+}
+
+.textCenter {
+  text-align: center;
+}
+
+.textBold {
+  font-weight: bold;
+}
+
+.changeFont {
+  font-family: "Courier New", Courier, monospace;
+}
+.multipleAtt {
+  color: orange;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.styledFont {
+  color: green;
+}
+
+#styledImage {
+  border: 5px solid pink;
+}
